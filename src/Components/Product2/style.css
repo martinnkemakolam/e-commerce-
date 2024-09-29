@@ -1,0 +1,22 @@
+.cart-count {
+  font-size: 0.8rem;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card .badge {
+  font-size: 0.9rem;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item.active {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  color: white;
+}

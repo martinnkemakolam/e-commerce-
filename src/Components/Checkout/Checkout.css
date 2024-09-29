@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff8c00;
+}
+
+.nav-link {
+    color: #333;
+}
+
+.btn-outline-primary {
+    color: #ff8c00;
+    border-color: #ff8c00;
+}
+
+.btn-outline-primary:hover {
+    background-color: #ff8c00;
+    color: white;
+}
+
+.feature-icon {
+    font-size: 24px;
+    color: #ff8c00;
+}
+
+
+
+.form-section {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.order-summary {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 20px;
+}
+
+.order-summary img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #ff8c00;
+    border-color: #ff8c00;
+}
+
+.btn-primary:hover {
+    background-color: #e07b00;
+    border-color: #e07b00;
+}
+
+.input-group-text {
+    background-color: #ff8c00;
+    color: #fff;
+    border: none;
+}
+
+.input-group-text i {
+    font-size: 18px;
+}
+
+.material-icons {
+    vertical-align: middle;
+}
+
+.discount-input {
+    margin-bottom: 20px;
+}
